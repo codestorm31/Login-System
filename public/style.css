@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@800&family=Aleo:wght@700&family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans',sans-serif;
+    background: linear-gradient(90deg, #0526ab,#aaf5ff);
+}
+
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding: .4em .2em;
+}
+
+form{
+    padding: 0 3em;
+}
+
+#login.title>span{
+    font-size: .8em;
+}
